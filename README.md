@@ -11,7 +11,7 @@
 <h3>Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,python,java,js,lua,c,cpp,cs,git,neovim,arch,html,css,matlab" />
+    <img src="https://skillicons.dev/icons?i=unity,godot,python,java,arduino,lua,c,cpp,cs,git,neovim,arch,html,css,matlab" />
   </a>
 </p>
 
