@@ -16,15 +16,9 @@
 </p>
 
   <div align=center>
-    <img align="left" src="https://i.redd.it/aopocexj4y4f1.gif"/>
-    <img align="left" src="https://media4.giphy.com/media/l378kgPmLyABZXrlC/giphy.gif"/>
+    <img height=200 align="left" src="https://i.pinimg.com/originals/70/ee/1c/70ee1c0f33a37223858486fbf45cd39d.gif"/>
+    <img align="left" src="https://www.amazingcomics.it/spiderman/gif_venom15.gif"/>
   </div>
 <picture height=200 align="right">
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guileisme&layout=donut&theme=holi"
-  />
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guileisme&layout=donut"
-  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guileisme&layout=donut" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guileisme&layout=donut&theme=holi&hide=shaderlab,tex,html,hlsl,css" />
 </picture>
